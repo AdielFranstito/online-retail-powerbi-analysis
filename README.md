@@ -1,10 +1,9 @@
 online-retail-powerbi-analysis
 
 >> Online Retail UK – Sales & Customer Analytics (Power BI)
+
 This project demonstrates an end-to-end Business Intelligence workflow using transactional retail data from a UK-based e-commerce company (Dec 2010 – Dec 2011).
-
 The objective is to transform raw transaction-level data into actionable business insights related to sales performance, customer segmentation, retention, and lifetime value.
-
 This project highlights both technical implementation (Power BI & DAX) and business interpretation.
 
 
