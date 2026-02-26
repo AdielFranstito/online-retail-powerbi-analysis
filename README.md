@@ -86,3 +86,4 @@ Note: 2010 data includes December only. Analysis is interpreted accordingly.
 -----
 
 ## Dashboard Preview
+https://github.com/AdielFranstito/online-retail-powerbi-analysis/blob/main/powerbi/dashboard_preview.png
